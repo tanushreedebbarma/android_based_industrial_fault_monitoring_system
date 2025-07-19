@@ -15,7 +15,7 @@ It alerts the user through a buzzer, LCD display, and the RemoteXY mobile app (v
 - Arduino IDE (for coding and uploading)  
 - [RemoteXY](https://remotexy.com/en/) (for creating the mobile app interface)  
 
-## 📂 Repository Structure
+# Repository Structure
 - `Arduino/` - All Arduino sketches (sensor monitoring and RemoteXY app)
 - `docs/` - Circuit diagram
 - `README.md` - Overview of the project
